@@ -1,0 +1,38 @@
+body {
+  padding: 2rem 0 0 2rem;
+}
+
+.bg {
+  background-color: grey;
+ 
+}
+
+#quote-box {
+  margin: auto;
+  padding: auto;
+  text-align: center;
+  }
+
+#text {
+  font-size: 4rem;
+  color:white;
+}
+
+#author {
+  font-size: 3rem;
+  text-align: right;
+  color:white;
+}
+
+#buttons {
+  position: sticky;
+  padding: 4vw;
+  margin: 4vw;
+}
+.bg{
+   background-color:black;
+}
+
+.container{
+  background-color:black;
+}
